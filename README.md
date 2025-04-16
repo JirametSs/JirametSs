@@ -1,91 +1,80 @@
 <h1 align="center">Hi 👋, I'm Jiramet Phumwatchara (PolPol)</h1>
-
 <h3 align="center">
-🚀 A passionate MMIT student from CAMT, Chiang Mai University, aspiring to become a professional Fullstack Developer.<br>
-💡 I enjoy solving real-world problems with code, crafting responsive web applications, and continuously exploring new technologies.<br>
-🌏 Based in Thailand, driven by curiosity, creativity, and a growth mindset in the world of modern web development.
+💻 Fullstack Developer in the Making | 🎓 MMIT Student @ CAMT, Chiang Mai University  
+🇹🇭 Based in Thailand | 🚀 Passionate about Web Dev, UI/UX, and Cloud Tech
 </h3>
 
 ---
 
-### 🙋‍♂️ About Me
+### 🌟 About Me
 
-- 🎓 I’m a 4th-year student in Modern Management and Information Technology (MMIT) at CAMT, Chiang Mai University (CMU)
-- 🌐 I'm passionate about Web Development, Cloud Technology, and Open Source contribution
-- 📌 I love building systems that **optimize processes** and improve **user experience** in organizations
-- 🧠 Lifelong learner: I enjoy learning by building projects and helping others along the way
-
----
-
-### 🛠️ Highlight Projects
-
-- 🔹 **Online Circular Document System** – Laravel + MySQL + Bootstrap 5  
-  👉 A professional internal documentation system for staff with admin/user permission features
-
-- 🔹 **Personnel Hiring Visualization Tool** – Laravel + Chart.js  
-  👉 Data dashboard for HR planning with budget graphs and detailed reports
-
-- 🔹 **Pineapple Product Store** – Fullstack project with login, cart, and Firebase-based auth  
-  👉 A playful prototype of a responsive online store with modern UI/UX
+- 🎓 4th-year MMIT student at CAMT, Chiang Mai University  
+- 👨‍💻 Passionate about modern web technologies & open source  
+- 🌱 Currently learning **Angular, Laravel, Docker, PostgreSQL**  
+- 🛠 I love building tools that improve productivity & user experience  
+- ✨ Exploring ways to combine design and development  
+- 🤝 Always open to collaboration and new challenges
 
 ---
 
-### 🌱 Currently Learning
+### 🔥 Highlight Projects
 
-- ✅ Angular & Laravel with RESTful API integration  
-- ✅ Docker, Docker Compose, and PostgreSQL  
-- ✅ CI/CD workflows and cloud deployment strategies
-
----
-
-### 💬 Ask Me About
-
-- React.js, Next.js, Vue.js  
-- Laravel, MySQL, Firebase  
-- Tailwind CSS, Bootstrap, and Figma
+| Project | Description |
+|--------|-------------|
+| 📄 **Online Circular System** | Laravel system for managing internal documents with admin/user roles |
+| 📊 **Hiring Dashboard** | Laravel + Chart.js data visualization for HR planning |
+| 🍍 **Pineapple Store** | A mini e-commerce site with login & product cart using Firebase |
 
 ---
 
-### 📫 How to Reach Me
+### 🛠️ Tech Stack
 
-- Email: **polphumwat@gmail.com**  
-- Facebook: [Jiramet Phumwatchara](https://fb.com/jiramet%20phumwatchara)
+**Languages & Frameworks**  
+![Laravel](https://img.shields.io/badge/-Laravel-red?logo=laravel&logoColor=white&style=flat-square)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat-square)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
+![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+
+**Database & Tools**  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
+
+**Design & Frontend**  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat-square)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
 
 ---
 
-### ⚡ Fun Fact
+### 📫 Contact Me
 
-- I think I’m kind, curious, and a little bit funny sometimes 😄
-
----
-
-### 🛠️ Languages & Tools
-
-<p align="left">
-  <a href="https://angular.io" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" height="40"/></a>
-  <a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
-  <a href="https://docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-</p>
+- 📧 Email: **polphumwat@gmail.com**  
+- 📘 Facebook: [Jiramet Phumwatchara](https://fb.com/jiramet%20phumwatchara)
 
 ---
 
 ### 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jirametss&show_icons=true&locale=en&layout=compact" alt="Top Langs" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jirametss&show_icons=true&theme=radical" alt="jirametss GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jirametss&layout=compact&theme=radical" alt="Top Langs" width="48%" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jirametss&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jirametss&theme=radical" alt="GitHub Streak" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jirametss&" alt="GitHub Streak" /></p>
+---
+
+### ⚡ Fun Fact  
+I once built an HR dashboard in one weekend because I got too excited after learning Laravel 🤓
+
+---
+
