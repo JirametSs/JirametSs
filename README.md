@@ -1,80 +1,82 @@
-<h1 align="center">Hi 👋, I'm Jiramet Phumwatchara (PolPol)</h1>
-<h3 align="center">
-💻 Fullstack Developer in the Making | 🎓 MMIT Student @ CAMT, Chiang Mai University  
-🇹🇭 Based in Thailand | 🚀 Passionate about Web Dev, UI/UX, and Cloud Tech
-</h3>
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="120" style="border-radius: 50%;" />
+</p>
+
+<h1 align="center">Hi 👋, I'm <strong>Jiramet Phumwatchara </strong></h1>
+
+<p align="center">
+💻 Fullstack Developer in the Making | 🎓 MMIT @ CAMT - Chiang Mai University <br>
+🌏 Based in Thailand | 🚀 Passionate about Web Dev, UI/UX & Cloud
+</p>
 
 ---
 
-### 🌟 About Me
+### 🧠 About Me
 
-- 🎓 4th-year MMIT student at CAMT, Chiang Mai University  
-- 👨‍💻 Passionate about modern web technologies & open source  
-- 🌱 Currently learning **Angular, Laravel, Docker, PostgreSQL**  
-- 🛠 I love building tools that improve productivity & user experience  
-- ✨ Exploring ways to combine design and development  
-- 🤝 Always open to collaboration and new challenges
+- 🎓 Final-year student @ **MMIT, CAMT Chiang Mai University**
+- 💡 Passionate about building practical web systems with elegant UX
+- 🚀 Exploring **Angular**, **Laravel**, **Docker**, and **PostgreSQL**
+- 🧑‍💻 Interested in software that improves education, healthcare & productivity
+- 🤝 Open for collaborations, freelance, and learning opportunities
 
 ---
 
-### 🔥 Highlight Projects
+### 🔥 Featured Projects
 
-| Project | Description |
-|--------|-------------|
-| 📄 **Online Circular System** | Laravel system for managing internal documents with admin/user roles |
-| 📊 **Hiring Dashboard** | Laravel + Chart.js data visualization for HR planning |
-| 🍍 **Pineapple Store** | A mini e-commerce site with login & product cart using Firebase |
+| 🚀 Project Name | Tech Stack | Description |
+|----------------|------------|-------------|
+| 🧾 **Online Circular System** | Laravel, MySQL | Internal doc system with admin/user roles |
+| 📊 **Hiring Dashboard** | Laravel, Chart.js | Interactive personnel/budget data visualization |
+| 🍍 **Pineapple Store** | Firebase, JS | Playful mini e-commerce with login/cart feature |
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages & Frameworks**  
-![Laravel](https://img.shields.io/badge/-Laravel-red?logo=laravel&logoColor=white&style=flat-square)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat-square)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
-![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&logoColor=white&style=flat-square)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+#### 💻 Languages & Frameworks  
+![Laravel](https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-**Database & Tools**  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
+#### 🗃️ Databases & Tools  
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-**Design & Frontend**  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat-square)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
+#### 🎨 Design & Frontend  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-1E1E2F?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-### 📫 Contact Me
+### 📬 Connect with Me
 
-- 📧 Email: **polphumwat@gmail.com**  
-- 📘 Facebook: [Jiramet Phumwatchara](https://fb.com/jiramet%20phumwatchara)
+<p align="center">
+  <a href="mailto:polphumwat@gmail.com"><img src="https://img.shields.io/badge/Email-polphumwat@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://facebook.com/jiramet%20phumwatchara"><img src="https://img.shields.io/badge/Facebook-Jiramet%20Phumwatchara-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jirametss&show_icons=true&theme=radical" alt="jirametss GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jirametss&layout=compact&theme=radical" alt="Top Langs" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jirametss&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jirametss&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jirametss&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
 
 ---
 
-### ⚡ Fun Fact  
-I once built an HR dashboard in one weekend because I got too excited after learning Laravel 🤓
+### ⚡ Fun Fact
+
+> I once built a full HR Dashboard in 48 hours just because Laravel was so addictive 😆
 
 ---
 
