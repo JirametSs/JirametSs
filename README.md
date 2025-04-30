@@ -44,17 +44,44 @@
 ![Figma](https://img.shields.io/badge/-Figma-1E1E2F?style=flat-square&logo=figma&logoColor=white)
 
 ---
-<center>
 ## 🚀 Featured Projects
 
-| 🔥 Project             | 🧰 Tech Stack           | 📋 Description                            |
-|------------------------|-------------------------|--------------------------------------------|
-| **Online Circular System** | Laravel, MySQL        | Internal doc system with admin/user roles |
-| **Hiring Dashboard**       | Laravel, Chart.js     | Data visualization for HR and budgets     |
-| **Pineapple Store**        | Laravel, JS           | Fun mini-store with cart/login            |
-| **Pokémon App**            | Angular, TypeScript   | Browse & filter Pokémon via API           |
+<div align="center">
 
-</center>
+<table>
+  <thead>
+    <tr>
+      <th>🔥 Project</th>
+      <th>🧰 Tech Stack</th>
+      <th>📋 Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Online Circular System</strong></td>
+      <td>Laravel, MySQL</td>
+      <td>Internal doc system with admin/user roles</td>
+    </tr>
+    <tr>
+      <td><strong>Hiring Dashboard</strong></td>
+      <td>Laravel, Chart.js</td>
+      <td>Data visualization for HR and budgets</td>
+    </tr>
+    <tr>
+      <td><strong>Pineapple Store</strong></td>
+      <td>Laravel, JS</td>
+      <td>Fun mini-store with cart/login</td>
+    </tr>
+    <tr>
+      <td><strong>Pokémon App</strong></td>
+      <td>Angular, TypeScript</td>
+      <td>Browse & filter Pokémon via API</td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
 ---
 
 ## 📬 Contact
