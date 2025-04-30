@@ -44,7 +44,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-1E1E2F?style=flat-square&logo=figma&logoColor=white)
 
 ---
-
+<center>
 ## 🚀 Featured Projects
 
 | 🔥 Project             | 🧰 Tech Stack           | 📋 Description                            |
@@ -54,6 +54,7 @@
 | **Pineapple Store**        | Laravel, JS           | Fun mini-store with cart/login            |
 | **Pokémon App**            | Angular, TypeScript   | Browse & filter Pokémon via API           |
 
+</center>
 ---
 
 ## 📬 Contact
