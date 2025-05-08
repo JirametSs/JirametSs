@@ -75,9 +75,3 @@ React · Angular · Laravel · Docker · PostgreSQL · Kubernetes
 </p>
 
 ---
-
-## 🐍 Feeding...
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jirametss/jirametss/output/github-contribution-grid-snake.svg" />
-</p>
