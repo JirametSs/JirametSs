@@ -57,7 +57,8 @@ Pokémon browser with search, filter, and API integration
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jirametss&show_icons=true&theme=tokyonight" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jirametss&layout=compact&theme=tokyonight" width="45%" />
-</p>
+<div style="display: flex; justify-content: center; gap: 1rem;">
+  <img src="https://github-readme-stats.vercel.app/api?username=jirametss&show_icons=true&theme=tokyonight&hide_border=true&card_width=400" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jirametss&layout=compact&theme=tokyonight&hide_border=true&card_width=400" height="180px" />
+</div>
+
