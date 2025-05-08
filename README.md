@@ -1,53 +1,57 @@
-<h1 align="center">🌙 Jiramet Phumwatchara</h1>
+# 🌙 Jiramet Phumwatchara
 
-<p align="center">
-MMIT @ CAMT, Chiang Mai University • Fullstack Dev in the Making • Passionate about Web Dev & Cloud  
-<br>
-📍 Thailand • 🌐 Open to Collaborations
-</p>
+MMIT @ CAMT, Chiang Mai University  
+Fullstack Dev in the Making · Passionate about Web Dev, Cloud & UI/UX  
+📍 Thailand · 🌐 Open to Collaborations
 
 ---
 
 ## 👋 About Me
 
 - 🎓 Final-year MMIT student at **CMU**
-- 💻 Focused on **Angular**, **Laravel**, **Docker**, **PostgreSQL**
-- ✨ Love clean UI, real-world systems, and open-source
+- 💻 Tech focus: **Angular**, **Laravel**, **Docker**, **PostgreSQL**
+- ✨ Fan of clean UI, real-world systems, and open-source culture
+- 🎨 Inspired by design trends, fitness, and anime in free time
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages & Frameworks**  
+### Languages & Frameworks  
 TypeScript · JavaScript · Laravel · Angular · React
 
-**Tools & Databases**  
+### Tools & Databases  
 MySQL · PostgreSQL · Docker · Firebase · Postman
 
-**UI/UX & Frontend**  
+### Frontend & UI/UX  
 HTML · CSS · TailwindCSS · Figma
 
 ---
 
 ## 🚀 Projects
 
-- **Online Circular System** — Laravel, MySQL  
-  Internal document system with role-based access
+**Online Circular System**  
+*Laravel, MySQL*  
+Internal document system with user/admin roles
 
-- **Hiring Dashboard** — Laravel, Chart.js  
-  Visual dashboard for HR and budget data
+**Hiring Dashboard**  
+*Laravel, Chart.js*  
+Visual HR dashboard for hiring and budgeting
 
-- **Pineapple Store** — Laravel, JavaScript  
-  Fun e-commerce prototype with login and cart
+**Pineapple Store**  
+*Laravel, JS*  
+A playful e-commerce prototype with cart and login
 
-- **Pokémon App** — Angular, TypeScript  
-  Browse and filter Pokémon via external API
+**Pokémon App**  
+*Angular, TypeScript*  
+Pokémon browser with search, filter, and API integration
 
 ---
 
 ## 📬 Contact
 
-[Email](mailto:polphumwat@gmail.com) · [Facebook](https://facebook.com/jiramet%20phumwatchara)
+📧 [polphumwat@gmail.com](mailto:polphumwat@gmail.com)  
+📘 [Facebook](https://facebook.com/jiramet%20phumwatchara)
 
 ---
 
