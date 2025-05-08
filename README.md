@@ -57,14 +57,19 @@ React · Angular · Laravel · Docker · PostgreSQL · Kubernetes
 
 ## 🗺️ My Journey
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jirametss&show_icons=true&theme=tokyonight&rank_icon=github" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jirametss&layout=compact&theme=tokyonight" width="48%" />
-</p>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem;">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jirametss&theme=github-compact" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=jirametss&show_icons=true&theme=tokyonight&rank_icon=github" style="max-width: 100%; width: 400px;" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jirametss&layout=compact&theme=tokyonight" style="max-width: 100%; width: 400px;" />
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jirametss&theme=github-compact" style="max-width: 100%;" />
+</div>
 
 ---
 
