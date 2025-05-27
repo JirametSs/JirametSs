@@ -1,12 +1,11 @@
 ## 👋 Introduction
 
 <!-- Profile GIF -->
-<img align='right' src='https://octodex.github.com/images/daftpunktocat-thomas.gif' width='200'>
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 ![status](https://img.shields.io/badge/status-active-brightgreen)
-![focus](https://img.shields.io/badge/focus-fullstack-blue)
 ![location](https://img.shields.io/badge/location-Thailand-ff69b4)
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=your-github-username)
+
 
 Hi there! I'm **PolPol**, a beginner fullstack developer from Thailand 🇹🇭  
 I'm passionate about crafting clean, scalable, and user-friendly web applications.  
