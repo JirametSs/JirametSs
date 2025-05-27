@@ -25,14 +25,6 @@ I mainly work with **Laravel**, **Angular**, and **Docker**, and I love learning
 
 ---
 
-## 📫 Contact Me
-
-[📧 Email](mailto:your.email@example.com)  
-[🌐 Portfolio](https://yourportfolio.example.com)  
-[💬 GitHub Discussions](https://github.com/your-github-username/your-repo/discussions)
-
----
-
 ## 💡 Featured Projects
 
 - 🔐 [Laravel Auth & RBAC System](https://github.com/your-github-username/laravel-auth)
@@ -41,21 +33,11 @@ I mainly work with **Laravel**, **Angular**, and **Docker**, and I love learning
 
 ---
 
-## 📚 Tech Blog & Slides
-
-- 📝 [Blog Articles](https://yourblog.example.com)
-- 📖 [Slides & Talks](https://your-slides.example.com)
-
----
 
 ## 📈 GitHub Stats
 
-![PolPol's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default)
+<div style="display: flex; justify-content: center; gap: 1rem;">
+<img src="https://github-readme-stats.vercel.app/api?username=jirametss&show_icons=true&theme=tokyonight&hide_border=true&card_width=400" height="180px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jirametss&layout=compact&theme=tokyonight&hide_border=true&card_width=400" height="180px" />
+</div>
 
-<!--
-Replace:
-- your-github-username → GitHub username จริง
-- your.email@example.com → อีเมลติดต่อ
-- yourportfolio.example.com → Portfolio หรือ GitHub Pages
-- yourblog.example.com → Blog ถ้ามี (หรือเอาออก)
--->
