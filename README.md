@@ -24,14 +24,6 @@ I mainly work with **Laravel**, **Angular**, and **Docker**, and I love learning
 
 ---
 
-## 💡 Featured Projects
-
-- 🔐 [Laravel Auth & RBAC System](https://github.com/your-github-username/laravel-auth)
-- 📊 [Angular + Tailwind Admin Dashboard](https://github.com/your-github-username/angular-dashboard)
-- 📦 [Dockerized Fullstack Starter Kit](https://github.com/your-github-username/fullstack-docker-kit)
-
----
-
 
 ## 📈 GitHub Stats
 
