@@ -1,64 +1,61 @@
-#  Jiramet Phumwatchara
+## 👋 Introduction
 
-MMIT @ CAMT, Chiang Mai University  
-Fullstack Dev in the Making · Passionate about Web Dev, Cloud & UI/UX  
-📍 Thailand · 🌐 Open to Collaborations
+<!-- Profile GIF -->
+<img align='right' src='https://octodex.github.com/images/daftpunktocat-thomas.gif' width='200'>
 
----
+![status](https://img.shields.io/badge/status-active-brightgreen)
+![focus](https://img.shields.io/badge/focus-fullstack-blue)
+![location](https://img.shields.io/badge/location-Thailand-ff69b4)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=your-github-username)
 
-## 👋 About Me
+Hi there! I'm **PolPol**, a beginner fullstack developer from Thailand 🇹🇭  
+I'm passionate about crafting clean, scalable, and user-friendly web applications.  
+I mainly work with **Laravel**, **Angular**, and **Docker**, and I love learning new things.
 
-- 🎓 Final-year MMIT student at **CMU**
-- 💻 Tech focus: **Angular**, **Laravel**, **Docker**, **PostgreSQL**
-- ✨ Fan of clean UI, real-world systems, and open-source culture
-- 🎨 Inspired by design trends, fitness, and anime in free time
-
----
-
-## 🛠️ Tech Stack
-
-### Languages & Frameworks  
-TypeScript · JavaScript · Laravel · Angular · React
-
-### Tools & Databases  
-MySQL · PostgreSQL · Docker · Firebase · Postman
-
-### Frontend & UI/UX  
-HTML · CSS · TailwindCSS · Figma
+> 🧠 “Make it simple, but significant.”
 
 ---
 
-## 🚀 Projects
+## 🚀 Tech Stack
 
-**Online Circular System**  
-*Laravel, MySQL*  
-Internal document system with user/admin roles
-
-**Hiring Dashboard**  
-*Laravel, Chart.js*  
-Visual HR dashboard for hiring and budgeting
-
-**Pineapple Store**  
-*Laravel, JS*  
-A playful e-commerce prototype with cart and login
-
-**Pokémon App**  
-*Angular, TypeScript*  
-Pokémon browser with search, filter, and API integration
+- 🧩 Frontend: `Angular`, `Bootstrap`, `Tailwind CSS`, `ReactJs` , `NextJs` 
+- ⚙️ Backend: `Laravel`, `PHP`, `MySQL`, `REST API`
+- 🧰 Tools: `Docker`, `Postman`, `Git`, `VS Code`
+- 🔭 Currently exploring: `Next.js`, `TypeScript`, `CI/CD` , `Python` 
 
 ---
 
-## 📬 Contact
+## 📫 Contact Me
 
-📧 [polphumwat@gmail.com](mailto:polphumwat@gmail.com)  
-📘 [Facebook](https://facebook.com/jiramet%20phumwatchara)
+[📧 Email](mailto:your.email@example.com)  
+[🌐 Portfolio](https://yourportfolio.example.com)  
+[💬 GitHub Discussions](https://github.com/your-github-username/your-repo/discussions)
 
 ---
 
-## 📊 GitHub Stats
+## 💡 Featured Projects
 
-<div style="display: flex; justify-content: center; gap: 1rem;">
-  <img src="https://github-readme-stats.vercel.app/api?username=jirametss&show_icons=true&theme=tokyonight&hide_border=true&card_width=400" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jirametss&layout=compact&theme=tokyonight&hide_border=true&card_width=400" height="180px" />
-</div>
+- 🔐 [Laravel Auth & RBAC System](https://github.com/your-github-username/laravel-auth)
+- 📊 [Angular + Tailwind Admin Dashboard](https://github.com/your-github-username/angular-dashboard)
+- 📦 [Dockerized Fullstack Starter Kit](https://github.com/your-github-username/fullstack-docker-kit)
 
+---
+
+## 📚 Tech Blog & Slides
+
+- 📝 [Blog Articles](https://yourblog.example.com)
+- 📖 [Slides & Talks](https://your-slides.example.com)
+
+---
+
+## 📈 GitHub Stats
+
+![PolPol's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default)
+
+<!--
+Replace:
+- your-github-username → GitHub username จริง
+- your.email@example.com → อีเมลติดต่อ
+- yourportfolio.example.com → Portfolio หรือ GitHub Pages
+- yourblog.example.com → Blog ถ้ามี (หรือเอาออก)
+-->
