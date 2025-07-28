@@ -31,3 +31,5 @@ I mainly work with **Laravel**, **Angular**, and **Docker**, and I love learning
 <img src="https://github-readme-stats.vercel.app/api?username=jirametss&show_icons=true&theme=tokyonight&hide_border=true&card_width=400" height="180px" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jirametss&layout=compact&theme=tokyonight&hide_border=true&card_width=400" height="180px" />
 </div>
+
+![snake gif](https://github.com/JirametSs/JirametSs/blob/output/github-contribution-grid-snake.gif)
