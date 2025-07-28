@@ -34,4 +34,4 @@ I mainly work with **Laravel**, **Angular**, and **Docker**, and I love learning
 
 ## 🐍 Snake Animation
 
-![snake gif](https://github.com/jirametss/jirametss/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/JirametSs/JirametSs/blob/output/github-contribution-grid-snake.svg)
