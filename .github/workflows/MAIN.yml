@@ -24,7 +24,7 @@ jobs:
             dist/github-contribution-grid-snake-dark.gif
           # Optional: Customize theme colors
           color_snake: '#00FF00'
-          color_dots: '#0d1117,#161b22,#21262d,#30363d,#484f58'  # GitHub dark theme
+          color_dots: '#0d1117,#161b22,#21262d,#30363d,#484f58'
 
       # Deploy to output branch
       - name: Publish to output branch
