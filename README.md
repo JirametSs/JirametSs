@@ -32,6 +32,8 @@ I mainly work with **Laravel**, **Angular**, and **Docker**, and I love learning
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jirametss&layout=compact&theme=tokyonight&hide_border=true&card_width=400" height="180px" />
 </div>
 
+---
+
 ## 🐍 Snake Animation
 
 ![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
