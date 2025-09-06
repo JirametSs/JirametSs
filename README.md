@@ -36,4 +36,4 @@ I mainly work with **Laravel**, **Angular**, and **Docker**, and I love learning
 
 ## 🐍 Snake Animation
 
-![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
+![GitHub contribution snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
