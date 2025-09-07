@@ -8,7 +8,7 @@
 ![language](https://img.shields.io/badge/language-Thai-blue)
 
 
-Hi there! I'm **PolPol**, a beginner fullstack developer from Thailand 🇹🇭  
+Hi there! I'm **PolPol**, a Beginner Fullstack Developer from Thailand 🇹🇭  
 I'm passionate about crafting clean, scalable, and user-friendly web applications.  
 I mainly work with **Laravel**, **Angular**, and **Docker**, and I love learning new things.
 
