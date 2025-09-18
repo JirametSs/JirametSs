@@ -25,16 +25,6 @@ I mainly work with **Laravel**, **Angular**, and **Docker**, and I love learning
 
 ---
 
-
-## 📈 GitHub Stats
-
-<div style="display: flex; justify-content: center; gap: 1rem;">
-<img src="https://github-readme-stats.vercel.app/api?username=jirametss&show_icons=true&theme=tokyonight&hide_border=true&card_width=400" height="180px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jirametss&layout=compact&theme=tokyonight&hide_border=true&card_width=400" height="180px" />
-</div>
-
----
-
 ## 🐍 Snake Animation
 
 ![GitHub contribution snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
