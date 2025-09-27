@@ -6,6 +6,8 @@
 ![status](https://img.shields.io/badge/status-active-brightgreen)
 ![location](https://img.shields.io/badge/location-Thailand-ff69b4)
 ![language](https://img.shields.io/badge/language-Thai-blue)
+![role](https://img.shields.io/badge/role-Fullstack%20Developer-orange)
+![focus](https://img.shields.io/badge/focus-AI%20%26%20Innovation-green)
 
 
 Hi there! I'm **PolPol**, a Beginner Fullstack Developer from Thailand 🇹🇭  
