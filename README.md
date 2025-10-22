@@ -3,11 +3,11 @@
 <!-- Profile GIF -->
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'>
 
-![status](https://img.shields.io/badge/status-active-brightgreen)
-![location](https://img.shields.io/badge/location-Thailand-ff69b4)
-![language](https://img.shields.io/badge/language-Thai-blue)
-![role](https://img.shields.io/badge/role-Fullstack%20Developer-orange)
-![focus](https://img.shields.io/badge/focus-AI%20%26%20Innovation-green)
+![status](https://img.shields.io/badge/status-active-4CAF50?style=flat-square&logo=performance)
+![location](https://img.shields.io/badge/location-Thailand-FF4081?style=flat-square&logo=flag-thailand)
+![language](https://img.shields.io/badge/language-Thai-2196F3?style=flat-square&logo=language)
+![role](https://img.shields.io/badge/role-Fullstack%20Developer-FF9800?style=flat-square&logo=code)
+![focus](https://img.shields.io/badge/focus-AI%20%26%20Innovation-8BC34A?style=flat-square&logo=robot)
 
 
 Hi there! I'm **PolPol**, a Beginner Fullstack Developer from Thailand 🇹🇭  
