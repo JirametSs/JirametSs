@@ -23,7 +23,7 @@ I mainly work with **Laravel**, **Angular**, and **Docker**, and I love learning
 - 🧩 Frontend: `Angular`, `Bootstrap`, `Tailwind CSS`, `ReactJs` , `NuxtJs` , `NextJs`
 - ⚙️ Backend: `Laravel`, `PHP`, `MySQL`, `REST API` , `NextJs`
 - 🧰 Tools: `Docker`, `Postman`, `Git`, `VS Code` , `Kiro` , `WindSurf` , `Jira` , `Godot Engine`
-- 🔭 Currently exploring: `TypeScript`, `CI/CD` , `Python` , `JAVA` , `Golang` 
+- 🔭 Currently exploring: `TypeScript`, `CI/CD` , `Python` , `JAVA` , `Golang` , `Rust`
 
 ---
 
