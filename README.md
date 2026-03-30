@@ -1,19 +1,16 @@
 ## 🌱 Introduction
 
-<!-- Typing SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=90EE90&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Jiramet+Phumwatchara;Fullstack+Developer+%7C+Data+Analyst;Building+things+that+matter." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=4000&pause=1000&color=90EE90&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Jiramet+Phumwatchara;Fullstack+Developer+%7C+Data+Analyst;Building+things+that+matter." alt="Typing SVG" />
   </a>
 </p>
 
-<!-- Banner — commit banner.svg to your profile repo root -->
 <p align="center">
   <img src="./banner.svg" style="width: 100%; max-height: 120px; object-fit: contain;" alt="pixel workspace banner">
 </p>
 
-<!-- Profile GIF -->
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'>
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100' alt='coding cat'>
 
 Hi there! I'm **PolPol**, a Beginner Fullstack Developer from Thailand 🇹🇭  
 I'm passionate about crafting clean, scalable, and user-friendly web applications.  
