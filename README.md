@@ -1,5 +1,7 @@
 ## 👋 Introduction
 
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Jiramet;Fullstack+Developer+%7C+AI+Engineer;Building+things+that+matter." alt="Typing SVG" /></a>
 <!-- Profile GIF -->
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'>
 
