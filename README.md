@@ -1,4 +1,7 @@
-
+<!-- Banner — commit banner.svg to your profile repo root -->
+<p align="center">
+  <img src="./banner.svg" style="width: 100%; max-height: 120px; object-fit: contain;" alt="pixel workspace banner">
+</p>
 ## 👋 Introduction
 
 <!-- Typing SVG -->
