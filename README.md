@@ -1,4 +1,4 @@
-## 🌱 Introduction
+##  Introduction
 
 
 
@@ -16,7 +16,7 @@ I mainly work with **Laravel**, **Angular**, and **Docker**, and I love learning
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 - 🧩 Frontend: `Angular`, `Bootstrap`, `Tailwind CSS`, `ReactJs` , `NuxtJs` , `NextJs`
 - ⚙️ Backend: `Laravel`, `PHP`, `MySQL`, `REST API` , `NextJs`
@@ -25,6 +25,6 @@ I mainly work with **Laravel**, **Angular**, and **Docker**, and I love learning
 
 ---
 
-## 🐍 Snake Animation
+##  Snake Animation
 
 ![GitHub contribution snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
