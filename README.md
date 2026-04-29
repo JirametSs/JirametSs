@@ -37,6 +37,7 @@ I mainly work with **Laravel**, **Angular**, and **Docker**, and I love learning
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
   ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
   ![Bruno](https://img.shields.io/badge/Bruno-FF6B00?style=flat)
+  ![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=flat&logo=dbeaver&logoColor=white)
 
 -  Currently exploring: 
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
