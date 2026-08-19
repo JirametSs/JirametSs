@@ -6,9 +6,11 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100' alt='coding cat'>
 
-Hi there! I'm **PolPol**, a Beginner Fullstack Developer from Thailand   
-I'm passionate about crafting clean, scalable, and user-friendly web applications.  
-I mainly work with **Laravel**, **Angular**, and **Docker**, and I love learning new things.
+Hi, I’m PolPol, a Full-Stack Developer based in Thailand.
+
+I focus on developing clean, scalable, and user-friendly web applications, with a strong interest in modern web technologies and software development best practices.
+
+My primary technology stack includes Laravel, Angular, and Docker. I am continuously expanding my skills and exploring new technologies to build reliable and efficient software solutions.
 
 >  “Make it simple, but significant.”
 
