@@ -2,11 +2,11 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100' alt='coding cat'>
 
-Hi, I’m PolPol, a Full-Stack Developer based in Thailand.
+Hi, I am a Programmer based in Thailand.
 
-I focus on developing clean, scalable, and user-friendly web applications, with a strong interest in modern web technologies and software development best practices.
+I focus on developing clean and user-friendly web applications, with a strong interest in modern web technologies and software development best practices.
 
-My primary technology stack includes Laravel, Angular, and Docker. I am continuously expanding my skills and exploring new technologies to build reliable and efficient software solutions.
+My primary technology stack includes Laravel, NextJS and Docker. I am continuously expanding my skills and exploring new technologies to build reliable and efficient software solutions.
 
 ## Tech Stack & Tools
 
