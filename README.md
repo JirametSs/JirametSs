@@ -1,9 +1,5 @@
 ##  Introduction
 
-<!-- <p align="center">
-  <img src="./banner-dark.svg" style="width: 100%; max-height: 120px; object-fit: contain;" alt="pixel workspace banner">
-</p> -->
-
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100' alt='coding cat'>
 
 Hi, I’m PolPol, a Full-Stack Developer based in Thailand.
@@ -12,36 +8,43 @@ I focus on developing clean, scalable, and user-friendly web applications, with 
 
 My primary technology stack includes Laravel, Angular, and Docker. I am continuously expanding my skills and exploring new technologies to build reliable and efficient software solutions.
 
->  “Make it simple, but significant.”
+## Tech Stack & Tools
 
-### Tech stack
+### Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-101418?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-101418?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Angular-101418?style=flat-square&logo=angular&logoColor=DD0031" alt="Angular" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-101418?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-101418?style=flat-square&logo=bootstrap&logoColor=7952B3" alt="Bootstrap" />
+</p>
 
-**Frontend**  
-![Next.js](https://img.shields.io/badge/Next.js-101418?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-101418?style=flat-square&logo=react&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-101418?style=flat-square&logo=angular&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-101418?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-101418?style=flat-square&logo=bootstrap&logoColor=white)
+### Backend & Database
+<p align="left">
+  <img src="https://img.shields.io/badge/Laravel-101418?style=flat-square&logo=laravel&logoColor=FF2D20" alt="Laravel" />
+  <img src="https://img.shields.io/badge/PHP-101418?style=flat-square&logo=php&logoColor=777BB4" alt="PHP" />
+  <img src="https://img.shields.io/badge/Next.js_API-101418?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js API" />
+  <img src="https://img.shields.io/badge/MySQL-101418?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL" />
+</p>
 
-**Backend**  
-![Laravel](https://img.shields.io/badge/Laravel-101418?style=flat-square&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-101418?style=flat-square&logo=php&logoColor=white)
-![Next.js API](https://img.shields.io/badge/Next.js_API-101418?style=flat-square&logo=nextdotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-101418?style=flat-square&logo=mysql&logoColor=white)
+### Development Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-101418?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-101418?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/Postman-101418?style=flat-square&logo=postman&logoColor=FF6C37" alt="Postman" />
+  <img src="https://img.shields.io/badge/DBeaver-101418?style=flat-square&logo=dbeaver&logoColor=white" alt="DBeaver" />
+  <img src="https://img.shields.io/badge/VS_Code-101418?style=flat-square&logo=visualstudiocode&logoColor=007ACC" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Bruno-101418?style=flat-square&logo=bruno&logoColor=F4AA41" alt="Bruno" />
+</p>
 
-**Tools**  
-![Docker](https://img.shields.io/badge/Docker-101418?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-101418?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-101418?style=flat-square&logo=postman&logoColor=white)
-![DBeaver](https://img.shields.io/badge/DBeaver-101418?style=flat-square&logo=dbeaver&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-101418?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Bruno](https://img.shields.io/badge/Bruno-101418?style=flat-square&logo=bruno&logoColor=white)
+### Currently Exploring
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-101418?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-101418?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/Rust-101418?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-101418?style=flat-square&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
+</p>
 
-**Exploring**  
-![TypeScript](https://img.shields.io/badge/TypeScript-101418?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-101418?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-101418?style=flat-square&logo=rust&logoColor=white)
-![CI/CD](https://img.shields.io/badge/GitHub_Actions-101418?style=flat-square&logo=githubactions&logoColor=white)
 
 ##  Snake Animation
 
